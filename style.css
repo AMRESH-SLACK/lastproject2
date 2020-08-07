@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+*{
+    padding: 0;
+    margin: 0;          
+}
+header{
+    font-family: 'Fredoka One', cursive;
+    background-image: url("./image/download\ \(1\).jpg");
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
+nav ul{
+    list-style: none;
+    display: flex;   
+    justify-content: center; 
+    margin: 20px;    
+    cursor: pointer; 
+}
+nav ul li{
+    margin: 20px
+}
+#fighter{
+    text-align: center;
+    padding: 30px;
+    padding-top: 20px;
+    background-image: linear-gradient(to right, lime, aqua);
+}
+#helicopter{
+    text-align: center;
+    padding: 30px;
+    padding-top: 20px;
+    background-image: linear-gradient(to right, #ef3d6d, #7646d1 );
+}
+#func{
+   padding: 30px;
+   background-image: linear-gradient(to right,yellow,lime);
+   width: 100vw;
+   height: 100vh;
+   background-size: cover;
+   text-align: center;
+   font-family: 'Fredoka One', cursive;
+}
+h2{
+    padding: 30px;
+    font-size: 30px;
+}
+#mirage{
+   align-items: flex-end;
+   cursor: pointer;
+}
+p{
+       font-size: 20px;
+   } 
+   #func2{
+    padding: 40px;
+    background-image: linear-gradient(to right,yellow,lime);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+.menu a{
+    background: aqua;
+    border-radius: 50%;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    font-size: 22px;
+}
+#func3{
+    padding: 40px;
+    background-image: linear-gradient(to right,yellow,lime);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+#func4{
+    padding: 40px;
+    background-image: linear-gradient(to right,yellow,lime);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+#image {
+    margin: 20px;
+}
+#image2{
+    margin: 20px;
+}
+#image3{
+    margin: 20px;
+}
+#image4{
+    margin: 20px;
+}
+ #heli{
+     margin: 20px;
+ }
+ #heli2{
+    margin: 20px;
+}
+#heli3{
+    margin: 20px;
+}
+#heli4{
+    margin: 20px;
+}
+#transporter{
+    text-align: center;
+    padding: 30px;
+    padding-top: 20px;
+    background-image: linear-gradient(to right, pink,  dodgerblue);
+}
+#trans{
+    margin: 20px;
+}
+#trans2{
+   margin: 20px;
+}
+#trans3{
+   margin: 20px;
+}
+#trans4{
+   margin: 20px;
+}
+#trainers{
+    text-align: center;
+    padding: 30px;
+    padding-top: 20px;
+    background-image: linear-gradient(to right, yellow,  red);
+}
+#trainer{
+    margin: 20px;
+}
+#trainer2{
+   margin: 20px;
+}
+#trainer3{
+   margin: 20px;
+}
+#heli22{
+    padding: 40px;
+    background-image: linear-gradient(to right,lime,dodgerblue);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+#trainer22{
+    padding: 40px;
+    background-image: linear-gradient(to right,orange, lime);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+.list a{
+    background-color:yellow;
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+#trans22{
+    padding: 40px;
+    background-image: linear-gradient(to right,aqua, gold);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+.go{
+    position: absolute;
+    top: 400px;
+    left: 1000px;
+    font-size: 20px;
+    background: aqua;
+    padding: 10px;
+    border: 2px solid white;
+}
